@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "cdalertview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/c0909h1179/CDAlertView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a2fe4f012d96573453b3ecc53c821317c0d21cf9"
+      }
+    },
+    {
+      "identity" : "t4fastid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/c0909h1179/T4FastID",
+      "state" : {
+        "branch" : "main",
+        "revision" : "78505f081c2a6a814d8d2d0e39fe2250f3a4d34e"
+      }
+    }
+  ],
+  "version" : 2
+}
